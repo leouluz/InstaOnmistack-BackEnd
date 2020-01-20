@@ -43,15 +43,8 @@
 * yarn add multer
 * yarn add sharp
 
-### Componentes FrontEnd
-
-* yarn add socket.io
-* yarn add react-router-rom 
-* yarn add nodemon
-
 ### Comandos de Execução
 
 * yarn dev para iniciar API ("scripts": {
     "dev": "nodemon src/index.js"
   })
-* yarn start (Dentro da pasta FrontEnd)
